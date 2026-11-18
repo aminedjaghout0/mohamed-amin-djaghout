@@ -34,8 +34,8 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile here when ready.
+- GitHub: https://github.com/aminedjaghout0
+- LinkedIn:
 
 ---
 
